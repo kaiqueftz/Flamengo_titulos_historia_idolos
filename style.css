@@ -13,12 +13,11 @@ body{
     height: 200px;
     width: 300px;
     border-radius: 7px;
-    border: 1px solid rgb(255, 255, 255); 
+    border: 1px solid rgb(255, 255, 255);  
 }
 
 
 #flamengocabecalho{
-    bottom: 0;
     text-decoration: line-through;
     height: 200px;
     width: 100%;
@@ -180,7 +179,7 @@ body{
     image-resolution: 1000%;
     text-decoration: line-through;
     height: 200px;
-    width: 150px;
+    width: 100%;
     border-radius: 7px;
     border: 1px solid rgb(253, 0, 0);
 }
@@ -240,9 +239,10 @@ body{
     image-resolution: 1000%;
     text-decoration: line-through;
     height: 200px;
-    width: 150px;
+    width: 100%;
     border-radius: 7px;
     border: 1px solid rgb(253, 0, 0);
+
 }
 
 .direito{
